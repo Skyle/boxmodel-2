@@ -1,3 +1,31 @@
 .esports-info {
   display: inline-block;
+  width: 320px;
+  height: 480px;
+  border: 1px black solid;
+  overflow: auto;
+}
+
+.esports-info-img {
+  object-fit: contain;
+  width: 100%;
+}
+
+.einruecken {
+  padding: 0rem 1rem 1rem 1rem;
+}
+
+.esports-tournaments {
+  width: 960px;
+}
+
+.dota-tournament-img {
+  float: left;
+  width: 320px;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+
+main {
+  margin: auto;
 }
